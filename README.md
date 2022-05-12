@@ -1,1 +1,1 @@
-# easyfsl_custom_data
+# Easy Few Shot Learning On Custom Data 💖
