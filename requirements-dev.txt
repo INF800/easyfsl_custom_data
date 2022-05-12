@@ -1,2 +1,5 @@
 easyfsl==1.0.0
+torch
+torchvision
 jupyter
+jupyterthemes

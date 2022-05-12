@@ -1,0 +1,8 @@
+{
+	"name": "py37",
+	"dockerFile": "Dockerfile"
+	// "extensions": [
+	// 	"dart-code.dart-code",
+	// ],
+	// "runArgs": ["--privileged", "-v", "/dev/bus/usb:/dev/bus/usb"]
+}
